@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Con vịt</title>
+  <style>
+    .duck-image {
+      width: 200px;
+    }
+  </style>
+</head>
+<body>
+  <img class="duck-image" src="ducks/duck.jpg" alt="Con vịt">
+</body>
+</html>
